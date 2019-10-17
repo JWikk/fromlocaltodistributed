@@ -6,8 +6,6 @@ mod3
 
 mod 4
 
-mod in temp frist
-
 mod
 
 mod again
